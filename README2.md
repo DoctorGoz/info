@@ -1,4 +1,4 @@
-# ⚡ goz // r.gosewehr // dr_goz
+# ⚡ goz // rgosewehr // dr_goz
 
 [\~]$ whoami <br>
 Robert Gosewehr CISSP GWAPT <br><br>
@@ -6,21 +6,22 @@ Robert Gosewehr CISSP GWAPT <br><br>
 Security_Engineer, Architect, Researcher, Open_Source_Advocate
 
 ---
+<br>
 
 > **Full-Stack Security Practitioner:** 20+ years navigating the bleeding edge of Tech & Security across many domains. I design enterprise security solutions by day and hunt high-impact threats by night. Working to make Security accessible to all through Consulting, Research, and Education. Operating on the principle of "Just Do It."
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D1252A&center=true&vCenter=true&width=600&lines=Hunting+Threats+Since+2000;Architecting+Zero-Trust+Networks;WebApp+%26+API+Security+Testing;Engineering+Enterprise+Data+Security+Solutions;Securing+AI/LLM+Implementations+%26+Auditing+RAG/MCP+Servers;Upstream+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D1252A&center=true&vCenter=true&width=600&lines=Hunting+Threats+Since+2000;Architecting+Zero-Trust+Networks;WebApp+%26+API+Security+Testing;Engineering+Enterprise+Data+Security+Solutions;Testing+%26+Securing+AI/LLM+Implementations;Upstream+Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ## 🛠️ The Full-Stack Security Arsenal: <br>🧰 Defensive Architecture & Offensive Exploitation
 
 | Operational Domain | Core Technologies & Tooling |
 |---|---|
-| Enterprise & Cloud Architecture | AWS (EC2/S3/IAM/Security Hub) Azure Netskope SASE Terraform (IaC) |
-| Data Governance & Cryptography | Protegrity CyberArk Oracle DB Sec Splunk Rapid7 |
-| "The ""Dark Side"": Offensive Sec" | Burp Suite Pro Caido OWASP ZAP Metasploit Kali Linux |
-| Frontier Tech: AI & LLM Security | RAG Architecture Auditing MCP Server Integrations Prompt Injection |
+| Enterprise & Cloud Architecture | AWS (EC2/S3/IAM/Security Hub), Azure, Netskope SASE, DevSecOps, Terraform (IaC) |
+| Offensive Security | Burp Suite, Caido, OWASP, Metasploit, Nessus, Kali Linux, AI Powered Automation |
+| Frontier Tech: AI & LLM Security | RAG, MCP Server Integrations, Prompt Injection, Secure AI Architecture |
+| Data Governance & Cryptography | Protegrity, CyberArk, DSPM, CSPM, Oracle, Splunk, Rapid7, PCI-DSS, HIPAA |
 
 <br>
 
@@ -41,7 +42,7 @@ I leverage an attacker's mindset to expose vulnerabilities in complex systems be
 Actively researching and developing mitigations for emerging AI threat vectors, including Prompt Manipulation, Indirect Injections in RAG architectures, and the security implications of AI Agents and MCP Servers.
 </details>
 
-<details>
+<details open>
 <summary><b>3. Enterprise Defense & Infrastructure</b></summary>
 <br>
 <img src="https://img.shields.io/badge/Netskope_SASE-FF8200?style=for-the-badge&logo=netskope&logoColor=white" alt="Netskope" />
@@ -63,7 +64,7 @@ Actively researching and developing mitigations for emerging AI threat vectors, 
 I believe in solving problems at their source. I am an active contributor to the **Fedora Project**, focusing on kernel release testing, security tooling, and security advisories. Giving back to the Open Source & Security communities is something that becomes increasingly more important to me as I advance further in my career.
 <br><br>
 
-## 📐 Conceptual Zero-Trust Implementation
+## 📡 Conceptual Zero-Trust Implementation
 *A high-level sequence diagram demonstrating a conceptual approach to Zero-Trust edge protection and data tokenization.*
 
 ```mermaid
@@ -87,13 +88,19 @@ sequenceDiagram
 ```
 <br>
 
-## 📡 Live Research & Showcases
+## 🔐 Areas of Active Research & Development
+*Current areas of interest and active research*
 
-*Select repositories demonstrating Security-as-Code, AI risk mitigation, and automated threat hunting. All commits are cryptographically signed.*
-
-<div align="center">
+<div align="left">
+  <ul>
+    <li>WebApp Security & Testing: GraphQL & REST APIs, Mobile Apps, & SAST/DAST</li>
+    <li>Securing AI Architecture & Deploying AI-enabled Security Solutions</li>
+    <li>Data Governance, Secure Cloud Operations, SASE/SSE, & DLP</li>
+  </ul>
   </div>
 <br>
+
+> *"In a landscape defined by adversarial AI and supply chain volatility, the only true perimeter is the resilience of the architecture itself."*
 
 ---
 <div align="center">
