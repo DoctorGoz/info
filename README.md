@@ -87,8 +87,6 @@ sequenceDiagram
     end
 ```
 
-<br>
-
 ## 🔐 Areas of Active Research & Development
 *Current areas of interest and active research*
 
