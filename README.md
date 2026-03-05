@@ -86,6 +86,7 @@ sequenceDiagram
         SASE-->>User: Deliver Encrypted Payload
     end
 ```
+
 <br>
 
 ## 🔐 Areas of Active Research & Development
