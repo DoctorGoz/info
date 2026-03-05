@@ -6,9 +6,9 @@ Robert Gosewehr CISSP GWAPT <br><br>
 Security_Engineer, Architect, Researcher, Open_Source_Advocate
 
 ---
-<br>
 
 > **Full-Stack Security Practitioner:** 20+ years navigating the bleeding edge of Tech & Security across many domains. I design enterprise security solutions by day and hunt high-impact threats by night. Working to make Security accessible to all through Consulting, Research, and Education. Operating on the principle of "Just Do It."
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D1252A&center=true&vCenter=true&width=600&lines=Hunting+Threats+Since+2000;Architecting+Zero-Trust+Networks;WebApp+%26+API+Security+Testing;Engineering+Enterprise+Data+Security+Solutions;Testing+%26+Securing+AI/LLM+Implementations;Upstream+Open+Source+Contributor" alt="Typing SVG" />
@@ -53,7 +53,7 @@ Actively researching and developing mitigations for emerging AI threat vectors, 
 
 ## 📜 Verified Credentials
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/CISSP-ISC²_Certified-448334?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP" />
 <img src="https://img.shields.io/badge/GWAPT-GIAC_Penetration_Tester-D1252A?style=for-the-badge&logo=security&logoColor=white" alt="GWAPT" />
 <img src="https://img.shields.io/badge/CCNA-Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
